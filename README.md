@@ -12,7 +12,7 @@ $ pip install cookiecutter
 
 Use cookiecutter to pull the repo - Fill out Information
 ```bash
-$ cookiecutter https://github.com/singer-io/singer-tap-template.git
+$ cookiecutter https://github.com/Mashey/mashey-tap-framework.git
 project_name [e.g. 'tap-facebook']: tap-foobar
 package_name [tap_foobar]:
 ...
