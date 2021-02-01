@@ -1,0 +1,7 @@
+{
+  "project_name": "e.g. 'tap-facebook'",
+  "package_name": "{{cookiecutter.project_name.replace('-','_')}}",
+  "developer": "e.g. Jordan",
+  "developer_email": "e.g. jordan.wallace.williams@gmail.com",
+  "year": "2021"
+}
