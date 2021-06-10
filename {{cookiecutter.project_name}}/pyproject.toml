@@ -13,8 +13,9 @@ requests = "^2.25.1"
 singer-python = "^5.9.1"
 
 [tool.poetry.dev-dependencies]
-autopep8 = "^1.5.4"
+black = "^21.5b2"
 coverage = "^5.4"
+mypy = "^0.902"
 pylint = "^2.6.0"
 pytest = "^6.2.2"
 pytest-cov = "^2.11.1"
